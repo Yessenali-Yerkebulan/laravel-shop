@@ -39,7 +39,7 @@
 <div class="container">
     <div class="starter-template">
         <div class="panel">
-            <a href="#">
+            <a href="/mobiles">
                 <h2>Мобильные телефоны</h2>
             </a>
             <p>
@@ -47,7 +47,7 @@
             </p>
         </div>
         <div class="panel">
-            <a href="#">
+            <a href="/portable">
                 <h2>Портативная техника</h2>
             </a>
             <p>
@@ -55,7 +55,7 @@
             </p>
         </div>
         <div class="panel">
-            <a href=#">
+            <a href="/appliances">
                 <h2>Бытовая техника</h2>
             </a>
             <p>

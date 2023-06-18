@@ -39,6 +39,7 @@
 <div class="container">
     <div class="starter-template">
         <h1>iPhone X 64GB</h1>
+        <h2>{{$product}}</h2>
         <p>Цена: <b>71990 руб.</b></p>
         <img src="https://avatars.mds.yandex.net/i?id=4a4971079fdf3781b41e471455ccb807af141ae6-9271342-images-thumbs&n=13">
         <p>Отличный продвинутый телефон с памятью на 64 gb</p>
